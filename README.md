@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Huy** — đam mê lập trình, AI, nhúng và hệ thống thông minh.
+Hi, I'm **Huy** .
 
 ---
 
