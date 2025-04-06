@@ -3,7 +3,7 @@ Hi, I'm **Huy** .
 
 ---
 
-## 💻 Tech Stack:
+ ---
 **Ngôn ngữ & Frameworks:**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -39,7 +39,7 @@ Hi, I'm **Huy** .
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
@@ -61,19 +61,5 @@ Hi, I'm **Huy** .
 
 ---
 
-## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=kabies-sickkk&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
----
-
----
-
-## 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=kabies-sickkk&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=kabies-sickkk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
