@@ -66,9 +66,6 @@ Hi, I'm **Huy** .
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 
 ## 🔝 Top Contributed Repos:
