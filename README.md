@@ -31,5 +31,4 @@ Hi, I'm **Huy Chan** .
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=kabies-sickkk&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=kabies-sickkk&theme=merko&no-frame=false&no-bg=true&margin-w=4)
