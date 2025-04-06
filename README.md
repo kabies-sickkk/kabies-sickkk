@@ -39,10 +39,32 @@ Hi, I'm **Huy** — đam mê lập trình, AI, nhúng và hệ thống thông mi
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kabies-sickkk&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=kabies-sickkk&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Tổng quan + Ngôn ngữ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats + Streak (hiển thị ngang hàng) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kabies-sickkk&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kabies-sickkk&theme=merko&hide_border=false" height="180em"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Most Used Languages (dưới cùng) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact" width="70%"/>
+
+</div>
+
 
 ---
 
