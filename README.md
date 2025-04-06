@@ -39,27 +39,25 @@ Hi, I'm **Huy** — đam mê lập trình, AI, nhúng và hệ thống thông mi
 
 ---
 
+## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
-<!-- Stats + Streak -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kabies-sickkk&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=kabies-sickkk&theme=merko&hide_border=false" height="180em"/>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kabies-sickkk&theme=merko&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="200"/>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact&card_width=800" width="100%"/>
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=kabies-sickkk&theme=merko&hide_border=false" width="49%" height="200"/>
 
 </div>
 
----
+<br/>
+
+<!-- Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact&card_width=1000" width="100%"/>
+</div>
+
 
 ---
 
