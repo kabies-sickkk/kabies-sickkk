@@ -39,16 +39,10 @@ Hi, I'm **Huy** — đam mê lập trình, AI, nhúng và hệ thống thông mi
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Tổng quan + Ngôn ngữ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats + Streak (hiển thị ngang hàng) -->
+<!-- Stats + Streak -->
 <table>
   <tr>
     <td>
@@ -60,11 +54,12 @@ Hi, I'm **Huy** — đam mê lập trình, AI, nhúng và hệ thống thông mi
   </tr>
 </table>
 
-<!-- Most Used Languages (dưới cùng) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact" width="70%"/>
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabies-sickkk&theme=merko&hide_border=false&layout=compact&card_width=800" width="100%"/>
 
 </div>
 
+---
 
 ---
 
