@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Huy** .
+Hi, I'm **Huy Chan** .
 
  ---
 ## 💻 Tech Stack:
