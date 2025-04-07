@@ -7,8 +7,6 @@ Hi, I'm **Huy Chan** .
 
 ---
 
----
-
 <!-- GitHub Stats -->
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
