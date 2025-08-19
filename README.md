@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm **Huy Chan** .
+---
 “Trí tưởng tượng quan trọng hơn kiến thức. Kiến thức có giới hạn, còn trí tưởng tượng ôm trọn cả thế giới.”
  ---
 ## 💻 Tech Stack:
