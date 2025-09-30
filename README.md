@@ -1,5 +1,5 @@
 ---
-Nguyễn Chấn Huy – sinh viên chuyên ngành Robot và Trí tuệ Nhân tạo. GitHub này được mình xây dựng nhằm lưu trữ các đồ án học tập, dự án nghiên cứu khoa học và những dự án cá nhân đang thực hiện. Tất cả được chia sẻ công khai với mục đích hỗ trợ cộng đồng sinh viên và những người quan tâm có thêm nguồn tham khảo, học hỏi và nghiên cứu về các lĩnh vực liên quan đến robotics và AI.
+<sub>Nguyễn Chấn Huy – sinh viên chuyên ngành Robot và Trí tuệ Nhân tạo. GitHub này được mình xây dựng nhằm lưu trữ các đồ án học tập, dự án nghiên cứu khoa học và những dự án cá nhân đang thực hiện. Tất cả được chia sẻ công khai với mục đích hỗ trợ cộng đồng sinh viên và những người quan tâm có thêm nguồn tham khảo, học hỏi và nghiên cứu về các lĩnh vực liên quan đến robotics và AI.</sub>
 ---
 
 ## 💻 Tech Stack:
