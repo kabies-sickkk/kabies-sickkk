@@ -1,1 +1,0 @@
-<sup>Nguyễn Chấn Huy – chuyên ngành Robot và Trí tuệ Nhân tạo. GitHub này được mình xây dựng nhằm lưu trữ các đồ án học tập, dự án nghiên cứu khoa học và những dự án cá nhân đang thực hiện. Tất cả được up công khai với mục đích nhằm cho các bạn học hỏi, nghiên cứu và tìm hiểu các đề tài liên quan đến Robotics và AI.</sup>
